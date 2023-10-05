@@ -1,3 +1,5 @@
+<!-- ![Profile-Header](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Profile_Header.gif?raw=true)   -->
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnold Ben
 ==================================================================================================================================
 
