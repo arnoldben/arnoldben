@@ -1,12 +1,12 @@
-![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-banner.gif?raw=true)  
+![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-header.gif?raw=true)  
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnold Ben
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnold Ben
 ==================================================================================================================================
 
 Cloud Infrastructure Engineer | DevOps Engineer
------------------------------------------------
+----------------------------------------------- -->
 
 * 🌍  I'm based in Muntinlupa, Metro Manila, Philippines
 * ✉️  You can contact me at [arnold.ben@hotmail.com](mailto:arnold.ben@hotmail.com)
