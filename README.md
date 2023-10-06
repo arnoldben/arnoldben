@@ -9,20 +9,23 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 ## 🔧 Technologies & Tools I Use
 
 <table>
+<!-- AWS, Azure -->
   <tr>
     <td align="center">☁️</td>
     <td align="center">CLOUD</th>
-    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>AWS, Azure</th>
+    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></th>
   </tr>
+<!-- Terraform, Ansible, Docker, Jenkins, GitHub, VSCode -->
   <tr>
     <td align="center">🛠</td>
     <td align="center">TOOLS</th>
-    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>  Terraform, Ansible, Docker, Jenkins, GitHub, VSCode</th>
+    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></th>
   </tr>
+<!-- Python, Bash, PowerShell -->
   <tr>
     <td align="center">💻</td>
     <th align="center">PROGRAMMING</th>
-    <th align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>Python, Bash, PowerShell</th>
+    <th align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></th>
   </tr>
   <tr>
     <td align="center">os</td>
