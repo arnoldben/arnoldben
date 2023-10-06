@@ -24,9 +24,9 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 - Infrastructure as Code: Terraform
 - Monitoring and Logging: Prometheus , ELK Stack -->
 
-## 🌱 I’m currently learning...
+<!-- ## 🌱 I’m currently learning...
 
-I believe in continuous learning, and currently, I'm diving deeper into [Kubernetes](https://kubernetes.io/).
+I believe in continuous learning, and currently, I'm diving deeper into [Kubernetes](https://kubernetes.io/). -->
 
 <!-- ## 🚀 My Projects
 
