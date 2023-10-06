@@ -40,4 +40,4 @@ Feel free to reach out, and let's connect! 🌐
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldben"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldben&theme=dark"/>
