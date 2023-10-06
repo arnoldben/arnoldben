@@ -6,9 +6,39 @@ Cloud Infrastructure Engineer | DevOps Engineer
 ----------------------------------------------- -->
 ![](https://komarev.com/ghpvc/?username=arnoldben)
 
-### Hi there!
+### Hi there! 👋
 
-My name is [Arnold Ben,](https://arnoldben.github.io/my-online-cv) a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for creating sleek and user-friendly interfaces. When I'm not coding, you'll catch me at the 
+My name is [Arnold Ben,](https://arnoldben.github.io/my-online-cv) a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for building scalable and efficient systems. My journey in the tech world has been exciting, and I love tackling challenges that come my way.
+
+## 🔧 Technologies & Tools
+
+- Cloud Platforms: AWS, Azure
+- Containerization: Docker
+- Configuration Management: Ansible
+- Continuous Integration/Continuous Deployment: Jenkins
+- Scripting: Bash, Python, PowerShell
+- Infrastructure as Code: Terraform
+- Monitoring and Logging: 
+
+## 🌱 I’m currently learning...
+
+I believe in continuous learning, and currently, I'm diving deeper into Kubernetes.
+
+<!-- ## 🚀 My Projects
+
+- [Project 1](link-to-project1): Brief description.
+- [Project 2](link-to-project2): Brief description. -->
+
+## 👨‍👩‍👧‍👦 Outside of Tech
+
+When I'm not in front of my laptop, you'll catch me playing with my kids. Family is a priority, and I cherish every moment spent with them. I also enjoy some "Netflix and chill" time to unwind.
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [@YourTwitterHandle](link-to-twitter)
+
+Feel free to reach out, and let's connect! 🌐
 
 
 <!-- Hi there, I'm Trevor, a Software Developer with a passion for creating sleek and user-friendly interfaces. When I'm not coding, you'll catch me at the beach playing volleyball with my trusty sidekick, Cooper.
