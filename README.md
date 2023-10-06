@@ -25,7 +25,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
     <th align="left">Python, Bash, PowerShell</th>
   </tr>
   <tr>
-    <td>💻</td>
+    <td>os</td>
     <th align="center">OPERATING SYSTEMS</th>
     <th align="left">Windows, Linux</th>
   </tr>
