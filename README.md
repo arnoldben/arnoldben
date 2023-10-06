@@ -7,7 +7,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 
 ## 🔧 Technologies & Tools
 
-<table>
+<table style="background-color:rgba(0, 0, 0, 0);">
   <tr>
     <td>☁️</td>
     <td align="center">CLOUD</th>
