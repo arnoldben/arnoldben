@@ -10,17 +10,17 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 <table>
   <tr>
     <td>☁️</td>
-    <td>CLOUD</th>
+    <td align="center">CLOUD</th>
     <td align="left">AWS, Azure</th>
   </tr>
   <tr bgcolor="none">
     <td>🛠</td>
-    <td>TOOLS</th>
+    <td align="center">TOOLS</th>
     <td align="left">Terraform, Ansible, Docker, Jenkins, GitHub, VSCode</th>
   </tr>
   <tr>
     <td>💻</td>
-    <th>PROGRAMMING</th>
+    <th align="center">PROGRAMMING</th>
     <th align="left">Python, Bash, PowerShell</th>
   </tr>
 </table>
