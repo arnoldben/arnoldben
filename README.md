@@ -38,6 +38,6 @@ I believe in continuous learning, and currently, I'm diving deeper into [Kuberne
 
 Feel free to reach out, and let's connect! 🌐
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldben"/>
