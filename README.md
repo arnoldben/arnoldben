@@ -22,17 +22,17 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
   <tr>
     <td>☁️</td>
     <th>CLOUD</th>
-    <th>AWS, Azure</th>
+    <th align="left">AWS, Azure</th>
   </tr>
   <tr>
     <td>🛠</td>
     <th>TOOLS</th>
-    <th>Terraform, Ansible, Docker, Jenkins, GitHub, VSCode</th>
+    <th align="left">Terraform, Ansible, Docker, Jenkins, GitHub, VSCode</th>
   </tr>
   <tr>
     <td>💻</td>
     <th>PROGRAMMING</th>
-    <th>Python, Bash, PowerShell</th>
+    <th align="left">Python, Bash, PowerShell</th>
   </tr>
 </table>
 
