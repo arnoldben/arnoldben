@@ -47,8 +47,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
     <td align="left">
         <a href="https://www.microsoft.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></a>
         <a href=""><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
-        <a href="https://www.redhat.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/></a>
-        
+        <a href="https://www.redhat.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/></a>        
     </td>
   </tr>
 </table>
