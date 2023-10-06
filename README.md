@@ -13,6 +13,7 @@ Cloud Infrastructure Engineer | DevOps Engineer
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [arnold.ben@hotmail.com](mailto:arnold.ben@hotmail.com)
+* ✉️  Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>
 
 ### Languages and Tools
 
