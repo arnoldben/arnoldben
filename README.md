@@ -1,5 +1,4 @@
 ![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-header.gif?raw=true)
-<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
 <!-- Hi there, I'm Arnold Ben ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
