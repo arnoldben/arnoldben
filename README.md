@@ -29,14 +29,15 @@ I believe in continuous learning, and currently, I'm diving deeper into Kubernet
 - [Project 1](link-to-project1): Brief description.
 - [Project 2](link-to-project2): Brief description. -->
 
-## 👨‍👩‍👧‍👦 Outside of Tech
+<!-- ## 👨‍👩‍👧‍👦 Outside of Tech
 
-When I'm not in front of my laptop, you'll catch me playing with my kids. Family is a priority, and I cherish every moment spent with them. I also enjoy some "Netflix and chill" time to unwind.
+When I'm not in front of my laptop, you'll catch me playing with my kids. Family is a priority, and I cherish every moment spent with them. I also enjoy some "Netflix and chill" time to unwind. -->
 
 ## 📫 Let's Connect
 
 - LinkedIn: [arnoldben](https://www.linkedin.com/in/arnolddben)
 - Github: [arnoldben](https://github.com/arnoldben)
+- Portfolio: [arnoldben](https://github.com/arnoldben)
 <!-- - Twitter: [@YourTwitterHandle](link-to-twitter) -->
 
 Feel free to reach out, and let's connect! 🌐
