@@ -38,7 +38,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
     <td align="left">
         <a href="https://www.python.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
         <a href="https://www.gnu.org/software/bash/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
-        <a href="https://learn.microsoft.com/en-us/powershell/"><img height=40 src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"/></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/"><img height=40 src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"/></a>
     </td>
   </tr>
 <!-- Windows, Linux -->
