@@ -7,13 +7,13 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 
 ## 🔧 Technologies & Tools
 
-<table style="background-color:rgba(0, 0, 0, 0);">
+<table>
   <tr>
     <td>☁️</td>
     <td align="center">CLOUD</th>
     <td align="left">AWS, Azure</th>
   </tr>
-  <tr bgcolor="none">
+  <tr style="background-color:rgba(0, 0, 0, 0);">
     <td>🛠</td>
     <td align="center">TOOLS</th>
     <td align="left">Terraform, Ansible, Docker, Jenkins, GitHub, VSCode</th>
