@@ -12,13 +12,17 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 
 ## 🔧 Technologies & Tools
 
-- Cloud Platforms: AWS, Azure
+- ☁️ Cloud: AWS, Azure
+- 🛠 Tools: Docker, Terraform, Ansible, Jenkins
+- 💻 Programming: Python, Bash, PowerShell
+
+<!-- - Cloud Platforms: AWS, Azure
 - Containerization: Docker
 - Configuration Management: Ansible
 - Continuous Integration/Continuous Deployment: Jenkins
 - Scripting: Bash, Python, PowerShell
 - Infrastructure as Code: Terraform
-<!-- - Monitoring and Logging: Prometheus , ELK Stack -->
+- Monitoring and Logging: Prometheus , ELK Stack -->
 
 ## 🌱 I’m currently learning...
 
