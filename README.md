@@ -3,7 +3,8 @@
 
 ## Hi there, I'm [Arnold Ben](https://arnoldben.github.io/my-online-cv)! 👋
 
-I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automating deployments, optimizing cloud resources, and building scalable and efficient infrastructures. My journey in the tech world has been exciting, and I love tackling challenges that come my way.
+I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automating deployments, optimizing cloud resources, and building scalable and efficient infrastructures. 
+<!-- My journey in the tech world has been exciting, and I love tackling challenges that come my way. -->
 
 ## 🔧 Technologies & Tools
 
