@@ -20,12 +20,19 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 
 <table>
   <tr>
-    <th>Fruit</th>
-    <td>Banana</td>
+    <td>☁️</td>
+    <th>CLOUD</th>
+    <th>AWS, Azure</th>
   </tr>
   <tr>
-    <th>Vegetable</th>
-    <td>Carrot</td>
+    <td>🛠</td>
+    <th>TOOLS</th>
+    <th>Terraform, Ansible, Docker, Jenkins, GitHub, VSCode</th>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <th>PROGRAMMING</th>
+    <th>Python, Bash, PowerShell</th>
   </tr>
 </table>
 
