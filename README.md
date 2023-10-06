@@ -27,10 +27,11 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
     <th align="center">PROGRAMMING</th>
     <th align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></th>
   </tr>
+<!-- Windows, Linux -->
   <tr>
     <td align="center">os</td>
     <th align="center">OPERATING SYSTEMS</th>
-    <th align="left">Windows, Linux</th>
+    <th align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></th>
   </tr>
 </table>
 
