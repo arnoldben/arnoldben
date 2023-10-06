@@ -12,7 +12,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
   <tr>
     <td align="center">☁️</td>
     <td align="center">CLOUD</th>
-    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>AWS, Azure</th>
+    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>AWS, Azure</th>
   </tr>
   <tr>
     <td align="center">🛠</td>
