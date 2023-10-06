@@ -11,7 +11,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 | 🛠 | Tools: | Terraform, Ansible, Docker, Jenkins, GitHub, VSCode |
 | 💻 | Programming: | Python, Bash, PowerShell |
 
-Markdown | Less | Pretty
+☁️ | Cloud | AWS, Azure
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
