@@ -13,7 +13,9 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
   <tr>
     <td align="center">☁️</td>
     <td align="center">CLOUD</th>
-    <td align="left"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></th>
+    <td align="left">
+        <a href="https://www.Youtube.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></a> 
+        <a href="https://www.Youtube.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></th></a>
   </tr>
 <!-- Terraform, Ansible, Docker, Jenkins, GitHub, VSCode -->
   <tr>
