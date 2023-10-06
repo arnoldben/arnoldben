@@ -18,7 +18,7 @@ My name is [Arnold Ben,](https://arnoldben.github.io/my-online-cv) a Cloud Infra
 - Continuous Integration/Continuous Deployment: Jenkins
 - Scripting: Bash, Python, PowerShell
 - Infrastructure as Code: Terraform
-- Monitoring and Logging: 
+<!-- - Monitoring and Logging: Prometheus , ELK Stack -->
 
 ## 🌱 I’m currently learning...
 
