@@ -13,7 +13,7 @@ Cloud Infrastructure Engineer | DevOps Engineer
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [arnold.ben@hotmail.com](mailto:arnold.ben@hotmail.com)
-* ✉️  Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>
+* ✉️  Check out my <a href="https://drive.google.com/file/d/1JpYTlX0E6wA-_gZDmqZtDSwnN01fQLqo/view?usp=sharing">resume</a>
 
 ### Languages and Tools
 
@@ -34,4 +34,3 @@ Cloud Infrastructure Engineer | DevOps Engineer
 <p align="left"> <a href="https://www.github.com/arnoldben" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arnolddben" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-https://drive.google.com/file/d/1JpYTlX0E6wA-_gZDmqZtDSwnN01fQLqo/view?usp=sharing
