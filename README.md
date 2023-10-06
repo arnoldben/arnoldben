@@ -2,14 +2,16 @@
 
 
 
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnold Ben
+Hi there, I'm Arnold Ben ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
 Cloud Infrastructure Engineer | DevOps Engineer
------------------------------------------------ -->
+-----------------------------------------------
 ![](https://komarev.com/ghpvc/?username=arnoldben)
 
 ### About Me
+
+Hi, I'm Arnold Ben, a cloud infrastructure engineer / devops engineer from PH
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [arnold.ben@hotmail.com](mailto:arnold.ben@hotmail.com)
