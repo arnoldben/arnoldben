@@ -35,9 +35,9 @@ When I'm not in front of my laptop, you'll catch me playing with my kids. Family
 
 ## 📫 Let's Connect
 
-- LinkedIn: [arnoldben](https://www.linkedin.com/in/arnolddben)
-- Github: [arnoldben](https://github.com/arnoldben)
-- Portfolio: [arnoldben](https://github.com/arnoldben)
+- LinkedIn: [in/arnolddben](https://www.linkedin.com/in/arnolddben)
+- Github: [github.com/arnoldben](https://github.com/arnoldben)
+- Portfolio: [my-online-cv](https://arnoldben.github.io/my-online-cv)
 <!-- - Twitter: [@YourTwitterHandle](link-to-twitter) -->
 
 Feel free to reach out, and let's connect! 🌐
