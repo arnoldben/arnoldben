@@ -1,4 +1,5 @@
-![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-header.gif?raw=true) 
+![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-header.gif?raw=true)
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
 <!-- Hi there, I'm Arnold Ben ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
@@ -10,21 +11,22 @@ Cloud Infrastructure Engineer | DevOps Engineer
 
 My name is Arnold Ben.
 
-<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
 <!-- Setup and start animation! -->
-  <script>
+<script>
     var typed = new Typed('#element', {
       strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
       typeSpeed: 50,
     });
-  </script>
-var typed3 = new Typed('#typed3', {
+    var typed3 = new Typed('#typed3', {
     strings: ['I am a <strong>Cloud Infrastructure Engineer</strong>', 'I am a <strong>DevOps Engineer</strong>'],
     typeSpeed: 0,
     backSpeed: 0,
     smartBackspace: true, // this is a default
     loop: true
 });
+</script>
+
 
 ### About Me
 
