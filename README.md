@@ -12,20 +12,20 @@ Cloud Infrastructure Engineer | DevOps Engineer
 My name is Arnold Ben.
 
 
+<!-- Element to contain animated typing -->
+<span id="element"></span>
+
+<!-- Load library from the CDN -->
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
 <!-- Setup and start animation! -->
 <script>
-    var typed = new Typed('#element', {
-      strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-      typeSpeed: 50,
-    });
-    var typed3 = new Typed('#typed3', {
-    strings: ['I am a <strong>Cloud Infrastructure Engineer</strong>', 'I am a <strong>DevOps Engineer</strong>'],
-    typeSpeed: 0,
-    backSpeed: 0,
-    smartBackspace: true, // this is a default
-    loop: true
+var typed = new Typed('#element', {
+    strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
+    typeSpeed: 50,
 });
 </script>
+<!-- </body> -->
 
 
 ### About Me
