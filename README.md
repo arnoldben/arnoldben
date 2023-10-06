@@ -18,6 +18,17 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+<table>
+  <tr>
+    <th>Fruit</th>
+    <td>Banana</td>
+  </tr>
+  <tr>
+    <th>Vegetable</th>
+    <td>Carrot</td>
+  </tr>
+</table>
+
 ## 🌱 I’m currently learning...
 
 I believe in continuous learning, and currently, I'm diving deeper into [Kubernetes](https://kubernetes.io/).
@@ -29,3 +40,7 @@ I believe in continuous learning, and currently, I'm diving deeper into [Kuberne
 - Portfolio: [my-online-cv](https://arnoldben.github.io/my-online-cv)
 
 Feel free to reach out, and let's connect! 🌐
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldben"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldben"/>
