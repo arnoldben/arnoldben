@@ -8,23 +8,14 @@ Cloud Infrastructure Engineer | DevOps Engineer
 
 ### Hi there!
 
-My name is Arnold Ben.
+My name is [Arnold Ben,](https://arnoldben.github.io/my-online-cv) a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for creating sleek and user-friendly interfaces. When I'm not coding, you'll catch me at the 
 
 
-<!-- Element to contain animated typing -->
-<span id="element"></span>
+<!-- Hi there, I'm Trevor, a Software Developer with a passion for creating sleek and user-friendly interfaces. When I'm not coding, you'll catch me at the beach playing volleyball with my trusty sidekick, Cooper.
 
-<!-- Load library from the CDN -->
-<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+I have a knack for noticing the little things. Drawing from my previous career in Heart Surgery, I bring a unique perspective and a splash of innovation to everything I do.
 
-<!-- Setup and start animation! -->
-<script>
-var typed = new Typed('#element', {
-    strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-    typeSpeed: 50,
-});
-</script>
-<!-- </body> -->
+Let's create something amazing! -->
 
 
 ### About Me
