@@ -13,7 +13,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 ## 🔧 Technologies & Tools
 
 - ☁️ Cloud: AWS, Azure
-- 🛠 Tools: Docker, Terraform, Ansible, Jenkins
+- 🛠 Tools: Terraform, Ansible, Docker, Jenkins
 - 💻 Programming: Python, Bash, PowerShell
 
 <!-- - Cloud Platforms: AWS, Azure
@@ -46,7 +46,7 @@ When I'm not in front of my laptop, you'll catch me playing with my kids. Family
 
 Feel free to reach out, and let's connect! 🌐
 
-Thanks for stopping by!
+<!-- Thanks for stopping by! -->
 <!-- Hi there, I'm Trevor, a Software Developer with a passion for creating sleek and user-friendly interfaces. When I'm not coding, you'll catch me at the beach playing volleyball with my trusty sidekick, Cooper.
 
 I have a knack for noticing the little things. Drawing from my previous career in Heart Surgery, I bring a unique perspective and a splash of innovation to everything I do.
