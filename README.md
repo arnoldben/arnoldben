@@ -6,6 +6,18 @@ Cloud Infrastructure Engineer | DevOps Engineer
 ----------------------------------------------- -->
 ![](https://komarev.com/ghpvc/?username=arnoldben)
 
+### Hi there!
+
+My name is Arnold Ben.
+
+var typed3 = new Typed('#typed3', {
+    strings: ['I am a <strong>Cloud Infrastructure Engineer</strong>', 'I am a <strong>DevOps Engineer</strong>'],
+    typeSpeed: 0,
+    backSpeed: 0,
+    smartBackspace: true, // this is a default
+    loop: true
+  });
+
 ### About Me
 
 * 🌍  I'm based in Metro Manila, Philippines
