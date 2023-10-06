@@ -6,9 +6,9 @@ Cloud Infrastructure Engineer | DevOps Engineer
 ----------------------------------------------- -->
 ![](https://komarev.com/ghpvc/?username=arnoldben)
 
-### Hi there! 👋
+## Hi there, I'm [Arnold Ben](https://arnoldben.github.io/my-online-cv)! 👋
 
-My name is [Arnold Ben,](https://arnoldben.github.io/my-online-cv) a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for building scalable and efficient systems. My journey in the tech world has been exciting, and I love tackling challenges that come my way.
+I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automating deployments, optimizing cloud resources, and building scalable and efficient infrastructures. My journey in the tech world has been exciting, and I love tackling challenges that come my way.
 
 ## 🔧 Technologies & Tools
 
@@ -22,7 +22,7 @@ My name is [Arnold Ben,](https://arnoldben.github.io/my-online-cv) a Cloud Infra
 
 ## 🌱 I’m currently learning...
 
-I believe in continuous learning, and currently, I'm diving deeper into Kubernetes.
+I believe in continuous learning, and currently, I'm diving deeper into [Kubernetes](https://kubernetes.io/).
 
 <!-- ## 🚀 My Projects
 
@@ -42,7 +42,7 @@ When I'm not in front of my laptop, you'll catch me playing with my kids. Family
 
 Feel free to reach out, and let's connect! 🌐
 
-
+Thanks for stopping by!
 <!-- Hi there, I'm Trevor, a Software Developer with a passion for creating sleek and user-friendly interfaces. When I'm not coding, you'll catch me at the beach playing volleyball with my trusty sidekick, Cooper.
 
 I have a knack for noticing the little things. Drawing from my previous career in Heart Surgery, I bring a unique perspective and a splash of innovation to everything I do.
@@ -50,13 +50,13 @@ I have a knack for noticing the little things. Drawing from my previous career i
 Let's create something amazing! -->
 
 
-### About Me
+<!-- ### About Me
 
 * 🌍  I'm based in Metro Manila, Philippines
-* ✉️  You can contact me at [arnold.ben@hotmail.com](mailto:arnold.ben@hotmail.com)
+* ✉️  You can contact me at [arnold.ben@hotmail.com](mailto:arnold.ben@hotmail.com) -->
 <!-- * ✉️  Check out my <a href="https://drive.google.com/file/d/1JpYTlX0E6wA-_gZDmqZtDSwnN01fQLqo/view?usp=sharing">resume</a> -->
 
-### Languages and Tools
+<!-- ### Languages and Tools
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  |  
@@ -74,4 +74,4 @@ Let's create something amazing! -->
 
 <p align="left"> <a href="https://www.github.com/arnoldben" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arnolddben" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-
+ -->
