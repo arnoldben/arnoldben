@@ -22,7 +22,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
   <tr>
     <td align="center">💻</td>
     <th align="center">PROGRAMMING</th>
-    <th align="left">Python, Bash, PowerShell</th>
+    <th align="left"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>Python, Bash, PowerShell</th>
   </tr>
   <tr>
     <td align="center">os</td>
