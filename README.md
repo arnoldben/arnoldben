@@ -14,7 +14,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
     <td align="center">☁️</td>
     <td align="center">CLOUD</td>
     <td align="left">
-        <a href="https://aws.amazon.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></a> 
+        <a href="https://aws.amazon.com/"><img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png"/></a> 
         <a href="https://azure.microsoft.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></th></a>
   </td>
 <!-- Terraform, Ansible, Docker, Jenkins, GitHub, Git, VSCode -->
