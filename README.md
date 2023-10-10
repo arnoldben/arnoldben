@@ -1,3 +1,9 @@
+@media (prefers-color-scheme: dark) {
+  [data-color-mode="system"] YOUR_SELECTOR {
+    /* CSS goes here */
+  }
+}
+
 ![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-header.gif?raw=true)
 ![](https://komarev.com/ghpvc/?username=arnoldben)
 
