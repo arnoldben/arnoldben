@@ -9,7 +9,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
 
 ## 🔧 Technologies & Tools I Use
 
-<table bground="black">
+<table>
 <!-- AWS, Azure -->
   <tr>
     <td align="center">☁️</td>
