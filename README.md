@@ -2,7 +2,6 @@
 ![Profile-Header](https://github.com/arnoldben/arnoldben/blob/main/images/github-profile-header.gif?raw=true)
 ![](https://komarev.com/ghpvc/?username=arnoldben)
 
-
 ## Hi there, I'm [Arnold](https://arnoldben.github.io/my-online-cv)! 👋
 
 I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automating deployments, optimizing cloud resources, and building scalable and efficient infrastructures. 
