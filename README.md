@@ -26,6 +26,7 @@ I'm a Cloud Infrastructure Engineer/ DevOps Engineer with a passion for automati
         <a href="https://www.terraform.io/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/></a>
         <a href="https://www.ansible.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/></a>
         <a href="https://www.docker.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></a>
+        <a href="https://https://kubernetes.io/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/></a>
         <a href="https://www.jenkins.io/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/></a>
         <a href="https://github.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
         <a href="https://git-scm.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
